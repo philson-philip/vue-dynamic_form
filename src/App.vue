@@ -2,7 +2,7 @@
   <div id="app" class="container mx-auto py-6">
     <header>
       <div>
-        <span id="logo">Liquid Gold Box</span>
+        <span id="logo">Dynamic Login Form</span>
       </div>
     </header>
 
