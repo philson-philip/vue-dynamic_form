@@ -2,7 +2,11 @@
   <div id="app" class="container mx-auto py-6">
     <header>
       <div>
+<<<<<<< HEAD
         <span id="logo">Dynamic Login Form</span>
+=======
+        <span id="logo">Dynamic Forms</span>
+>>>>>>> 6594f9be5a9f16f4f2259e761f825f8705a2818d
       </div>
     </header>
 
